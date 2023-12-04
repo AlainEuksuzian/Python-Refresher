@@ -12,5 +12,6 @@ class player:
     def setAge(self, age_input):
         self.__age = age_input
 
+    #t
     def getAge(self):
         return self.__age
